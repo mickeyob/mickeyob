@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [EYOB HAILEMICHAEL WOLDEYOHANIS]
+# 👋 Hi, I'm EYOB HAILEMICHAEL WOLDEYOHANIS
 
 ### 🎯 Aspiring Data Analyst | Data Science Enthusiast
 
@@ -39,9 +39,9 @@ I'm passionate about transforming raw data into actionable insights and driving 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mickeyob&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mickeyob&layout=compact&theme=radical)
 
 ---
 
