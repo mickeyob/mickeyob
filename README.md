@@ -32,13 +32,7 @@ Graduating *Summa Cum Laude* (110/110) in Digital Economics, I specialize in bui
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
-## 📊 GitHub Analytics
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mickeyob&show_icons=true&theme=radical&hide_border=true)
-
----
 
 ## 📫 Connect
 
